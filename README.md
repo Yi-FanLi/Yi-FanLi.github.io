@@ -1,2 +1,1 @@
-# yifanli.github.io
-Yifan Li's personal website.
+# Yifan Li's website.
